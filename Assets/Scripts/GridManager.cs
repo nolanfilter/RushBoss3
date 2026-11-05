@@ -12,7 +12,7 @@ public class GridManager : MonoBehaviour
     private Color enemyColor = new Color( 0.25f, 0.25f, 0.25f, 1f );
     
     private Color fillDefault = new Color( 1f, 1f, 1f, 1f ); 
-    private Color fillHighlight = new Color( 0.75f, 0.75f, 0.75f, 1f ); 
+    private Color fillHighlight = new Color( 0.9375f, 0.9375f, 0.9375f, 1f ); 
     private Color fillLowlight = new Color( 0.25f,0.25f, 0.25f, 1f ); 
     
     private static GameObject[,] tileObjects;
